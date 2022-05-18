@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning Java/SpringBoot, swift
+- 🌱 currently learning Java/SpringBoot, swift
 
 <!---
 dev-summer/dev-summer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
