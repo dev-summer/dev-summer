@@ -1,4 +1,4 @@
-🌱 currently learning Java/SpringBoot, swift</br>
+🌱 currently learning Java/SpringBoot, Swift</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-summer&layout=compact&hide=csharp)
 
 
