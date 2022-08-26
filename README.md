@@ -8,9 +8,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-summer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 #### 🤷🏻‍♀️ some other things you might not be curious about </br>
-Formerly worked as a regional sales manager at KT</br>
+Formerly worked as regional sales manager at KT</br>
 Living with **the cutest baby lion** 🐱</br>
-Loves Rock but not so good at playing 🎸
+
 <!---
 dev-summer/dev-summer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
