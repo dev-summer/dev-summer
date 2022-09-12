@@ -9,7 +9,7 @@
 
 
 #### 🤷🏻‍♀️ some other things you might not be curious about </br>
-Formerly worked as regional sales manager at KT</br>
+Formerly worked as a regional sales manager at KT</br>
 Living with **the cutest baby lion** 🐱</br>
 
 <!---
