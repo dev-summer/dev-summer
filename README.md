@@ -10,7 +10,7 @@
 
 #### 🤷🏻‍♀️ some other things you might not be curious about </br>
 Formerly worked as a regional sales manager at KT</br>
-Living with **the cutest baby lion** 🐈</br>
+Living with **THE CUTEST BABY LION** 🐈</br>
 
 <!---
 dev-summer/dev-summer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
