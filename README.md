@@ -1,8 +1,10 @@
 #### ✏️ tech stacks currently learning</br>
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-</br>
+<br>
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-summer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </br>
+-->
 Yagom Academy Career Starter 7th (2022.08.16 ~ 2023.02.10) </br>
 Yagom Academy Code Starter 4th (2022.04.11 ~ 2022.05.13)
 
