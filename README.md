@@ -10,7 +10,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=summerly)](https://solved.ac/summerly)
 
-### 💼 Experience
+### 💼 Experiences
 #### Trustay (Jan 2024 -, Full time)
 - Junior iOS Engineer
 #### KT (Dec 2017 - Mar 2022, Full time)
