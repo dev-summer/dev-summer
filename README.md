@@ -6,15 +6,17 @@
 </br>
 -->
 
-#### 🏃🏻‍♀️ 사람이 될때까지 알고리즘 </br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=summerly)](https://solved.ac/summerly)
+---
 
 ### 💼 Experiences
 #### Trustay (Jan 2024 -, Full time)
+- A proptech subsidiary of Yanolja
 - Junior iOS Engineer
 #### KT (Dec 2017 - Mar 2022, Full time)
+- A telecommunication service company
 - Marketing Manager (Regional Sales Manager)
+
+---
 
 ### 🎓 Education
 #### Sungkyunkwan University (Mar 2012 - Aug 2017)
@@ -24,6 +26,10 @@
 #### 🍎 iOS Bootcamp
 - Yagom Academy Career Starter 7th (2022.08.16 ~ 2023.02.10) </br>
 - Yagom Academy Code Starter 4th (2022.04.11 ~ 2022.05.13)
+
+#### 🏃🏻‍♀️ 사람이 될때까지 알고리즘 </br>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=summerly)](https://solved.ac/summerly)
 
 <!---
 dev-summer/dev-summer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
